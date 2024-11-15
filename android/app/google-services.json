@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744206372674",
+    "project_id": "agileelibrary-2210c",
+    "storage_bucket": "agileelibrary-2210c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744206372674:android:b0397cd30d6305698902db",
+        "android_client_info": {
+          "package_name": "com.example.agil_elibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCM9BPKFhNwW1qNakeGV1CgtODQhgxzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
